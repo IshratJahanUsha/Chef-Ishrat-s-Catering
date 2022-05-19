@@ -1,0 +1,13 @@
+.checkout-page{
+    margin-top: 5rem;
+ min-height: 15rem;
+}
+
+.checkout-page h2{
+ color: rgb(207, 60, 34);
+}
+
+.checkout-page button{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,29 @@
+.about-title {
+    font-size: 2rem;
+    color: rgb(207, 60, 34);
+    align-self: center;
+}
+
+.about-me {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: .5rem;
+    margin-bottom: 4rem;
+    height: 15rem;
+}
+
+.about-me img {
+    height: 15rem;
+    width: 22rem;
+    border-radius: .5rem;
+    margin-left: 5rem;
+}
+
+.about-me p {
+    margin-right: 5rem;
+    height: 15rem;
+}
+
+.about-me p button {
+    margin-top: 1rem;
+}

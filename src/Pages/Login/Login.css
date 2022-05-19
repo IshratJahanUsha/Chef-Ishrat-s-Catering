@@ -1,0 +1,17 @@
+.login-page{
+    margin-bottom: 1rem;
+}
+
+.login-page h2 , label{
+color: rgb(207, 60, 34);
+}
+
+.login-page button{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.sign-in-btn{
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}

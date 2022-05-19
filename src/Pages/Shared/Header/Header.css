@@ -1,0 +1,38 @@
+html {
+    font-size: 100%;
+}
+
+.header {
+    display: flex;
+    border: .2rem solid black;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    /* position: sticky;
+    top: 20px; */
+}
+
+.head-title {
+    display: flex;
+}
+
+.head-title h1 {
+    font-size: 1.5rem;
+    color: rgb(207, 60, 34);
+}
+
+.head-title img {
+    width: 4rem;
+    height: 4rem;
+}
+
+.nav-links {
+    font-size: 1.2rem;
+    padding: 1rem 2rem 0 0;
+
+}
+
+.nav-links .link {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: rgb(207, 60, 34);
+}

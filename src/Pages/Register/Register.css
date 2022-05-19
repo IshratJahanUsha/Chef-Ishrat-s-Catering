@@ -1,0 +1,13 @@
+.register-section {
+    min-height: 15rem;
+}
+
+.register-section input {
+    margin-bottom: .5rem;
+    /* margin-bottom: ; */
+}
+
+.register-section button{
+    margin-top: .5rem;
+}
+
